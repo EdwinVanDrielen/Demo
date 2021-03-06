@@ -1,2 +1,2 @@
-#Mijn Demo
+#MijnDemo
 Dit is mijn demo
